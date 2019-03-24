@@ -1,0 +1,1 @@
+mvn exec:java -Dexec.mainClass=”bgu.spl171.net.impl.TFTPtpc.TPCMain” -Dexec.args=”555”
